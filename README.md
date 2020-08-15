@@ -8,4 +8,4 @@ note: The zip file contains executable for only windows machines. It will run on
 wine.
 You can download wine from the follwing link: https://wiki.winehq.org/Download
 
-note: You need to have qt5 installed in your machine to run the code and build it.But running the executable doesn't require qt5.
+note: You need to have qt5 installed in your machine to run the code and build it. But running the executable from the executable doesn't require qt5.
